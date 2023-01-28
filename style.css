@@ -46,3 +46,7 @@ ol li{
 .break{
     border-bottom: 2px solid rgb(2, 68, 46) ;
 }
+
+p{
+    font-weight: bold;
+}
